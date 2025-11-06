@@ -1,0 +1,17 @@
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore model checkpoints and logs
+models/*.h5
+models/*.keras
+*.log
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore temporary and system files
+.DS_Store
+Thumbs.db
