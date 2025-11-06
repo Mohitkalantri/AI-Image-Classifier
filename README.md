@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Image Classification System **Flikt Technology Web Solutions – AI Developer Technical Assignment**
+# 🧠 AI-Powered Image Classification System 
 
 ---
 
@@ -44,6 +44,7 @@ This project is an **AI-based image classification system** built using **Convol
 
 ## 🏗️ Project Structure
 
+```
 ai_image_classifier/
 ├─ src/
 │ ├─ data_loader.py
@@ -55,6 +56,7 @@ ai_image_classifier/
 │ └─ cnn_cifar10.h5
 ├─ requirements.txt
 └─ README.md
+```
 
 ---
 
@@ -85,4 +87,3 @@ python -m streamlit run src/app_streamlit.py
 Validation Accuracy: ~79–81%
 Test Accuracy: ~78%
 Model saved at: models/cnn_cifar10.h5
-# AI-Image-Classifier
