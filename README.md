@@ -87,3 +87,7 @@ python -m streamlit run src/app_streamlit.py
 Validation Accuracy: ~79–81%
 Test Accuracy: ~78%
 Model saved at: models/cnn_cifar10.h5
+
+### Confusion Matrix and Training Curves are present in the results folder.
+
+---
